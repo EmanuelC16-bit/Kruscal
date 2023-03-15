@@ -1,0 +1,6 @@
+/Users/emanuelcarbajal/Projects/KruscalApp_2.0/KruscalApp_2.0/bin/Debug/KruscalApp_2.0.exe
+/Users/emanuelcarbajal/Projects/KruscalApp_2.0/KruscalApp_2.0/bin/Debug/KruscalApp_2.0.pdb
+/Users/emanuelcarbajal/Projects/KruscalApp_2.0/KruscalApp_2.0/obj/anycpu/Debug/KruscalApp_2.0.csproj.AssemblyReference.cache
+/Users/emanuelcarbajal/Projects/KruscalApp_2.0/KruscalApp_2.0/obj/anycpu/Debug/KruscalApp_2.0.csproj.CoreCompileInputs.cache
+/Users/emanuelcarbajal/Projects/KruscalApp_2.0/KruscalApp_2.0/obj/anycpu/Debug/KruscalApp_2.0.exe
+/Users/emanuelcarbajal/Projects/KruscalApp_2.0/KruscalApp_2.0/obj/anycpu/Debug/KruscalApp_2.0.pdb
